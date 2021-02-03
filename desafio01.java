@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class desafio01{
     public static void main( String args[]){
         int poi, num, contador = 0;
         Scanner in = new Scanner(System.in);
