@@ -10,8 +10,6 @@ public class desafio01{
             while (contador < num){
                 contador ++;
                 if(contador%2==0)
-                /*int [] a;
-                a = new int[contador]; */
                 System.out.println(contador);
             }
         }
