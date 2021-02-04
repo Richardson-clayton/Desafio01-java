@@ -23,8 +23,8 @@ public class testdesafio02 {
         System.out.println(anos + " ano(s)");
         System.out.println(mes + " mes(es)");
         System.out.println(dias + " dia(s)");
-        System.out.println(mes);
-        System.out.println(dias);
+        /*System.out.println(mes);
+        System.out.println(dias);*/
     }
 	
 }

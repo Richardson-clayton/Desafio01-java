@@ -1,5 +1,5 @@
 # Desafio Dio -java
-### Soluções de problemas básicos em java
+### Soluções de problemas básicos em java.
 
 01- Crie um programa que leia um número e mostre os números pares até esse numero, inclusive ele mesmo.
 02- Você terá o desafio de ler um valor inteiro correspondente à idade de uma pessoa em dias e informe-a em anos, meses e dias.
