@@ -5,15 +5,15 @@ public class desafio03 {
         System.out.print("Informe a nota do Aluno entre 0 e 100: ");
         int nota = dados.nextInt();
         if(nota == 0){
-            System.out.println("Conceito E");
+            System.out.println("E");
         }else if (nota >= 1 && nota <= 35){
-            System.out.println("Conceito D");
+            System.out.println("D");
         }else if (nota >= 36 && nota <= 60){
-            System.out.println("Conceito C");
+            System.out.println("C");
         }else if (nota >= 61 && nota <= 85){
-            System.out.println("Conceito B");
+            System.out.println("B");
         }else if (nota >= 86 && nota <= 100){
-            System.out.println("Conceito A");
+            System.out.println("A");
         }
         
     }
